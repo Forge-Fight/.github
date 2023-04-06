@@ -1,5 +1,5 @@
 # ForgeFight Student Community 🛠️
-<img src="https://avatars.githubusercontent.com/u/130030942?s=400&u=534948542b664bd7702a000a52435dda824ae7a0&v=4" alt="Community Logo" title="Forge Fight">
+<p align="center"><img src="https://avatars.githubusercontent.com/u/130030942?s=400&u=534948542b664bd7702a000a52435dda824ae7a0&v=4" alt="Community Logo" title="Forge Fight"></p>
 
 Welcome to the ForgeFight Student Community GitHub page! This is a platform for students to collaborate, share knowledge and ideas, and work on projects related to the fields of technology and computer science.
 
